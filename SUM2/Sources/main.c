@@ -15,6 +15,7 @@ int main(void)
 
 	for(;;)
 	{
+		//aaaaaaaaaa
 		b = 5;
 		c = 4;
 		d = 3;
